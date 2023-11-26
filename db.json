@@ -3,27 +3,42 @@
     {
       "id": 16,
       "name": "item16",
-      "description": "This is item 16."
+      "description": "This is item 16.",
+      "field1": "Custom field 1 for item 16",
+      "field2": "Custom field 2 for item 16",
+      "field3": "Custom field 3 for item 16"
     },
     {
       "id": 17,
       "name": "item17",
-      "description": "This is item 17."
+      "description": "This is item 17.",
+      "field1": "Custom field 1 for item 17",
+      "field2": "Custom field 2 for item 17",
+      "field3": "Custom field 3 for item 17"
     },
     {
       "id": 18,
       "name": "item18",
-      "description": "This is item 18."
+      "description": "This is item 18.",
+      "field1": "Custom field 1 for item 18",
+      "field2": "Custom field 2 for item 18",
+      "field3": "Custom field 3 for item 18"
     },
     {
       "id": 19,
       "name": "item19",
-      "description": "This is item 19."
+      "description": "This is item 19.",
+      "field1": "Custom field 1 for item 19",
+      "field2": "Custom field 2 for item 19",
+      "field3": "Custom field 3 for item 19"
     },
     {
       "id": 20,
       "name": "item20",
-      "description": "This is item 20."
+      "description": "This is item 20.",
+      "field1": "Custom field 1 for item 20",
+      "field2": "Custom field 2 for item 20",
+      "field3": "Custom field 3 for item 20"
     }
   ]
 }
