@@ -13,23 +13,7 @@
           "id": 2,
           "name": "item2",
           "description": "This is item 2."
-        },
-        {
-          "id": 3,
-          "name": "item3",
-          "description": "This is item 3."
-        },
-        {
-          "id": 4,
-          "name": "item4",
-          "description": "This is item 4."
-        },
-        {
-          "id": 5,
-          "name": "item5",
-          "description": "This is item 5."
-        }
-      ]
+        }       
     },
     {
       "name": "endpoint2",
@@ -39,99 +23,7 @@
           "id": 6,
           "name": "item6",
           "description": "This is item 6."
-        },
-        {
-          "id": 7,
-          "name": "item7",
-          "description": "This is item 7."
-        },
-        {
-          "id": 8,
-          "name": "item8",
-          "description": "This is item 8."
-        },
-        {
-          "id": 9,
-          "name": "item9",
-          "description": "This is item 9."
-        },
-        {
-          "id": 10,
-          "name": "item10",
-          "description": "This is item 10."
-        }
+        }      
       ]
     },
-    {
-      "name": "endpoint3",
-      "url": "https://example.com/endpoint3",
-      "items": [
-        {
-          "id": 11,
-          "name": "item11",
-          "description": "This is item 11."
-        },
-        {
-          "id": 12,
-          "name": "item12",
-          "description": "This is item 12."
-        },
-        {
-          "id": 13,
-          "name": "item13",
-          "description": "This is item 13."
-        },
-        {
-          "id": 14,
-          "name": "item14",
-          "description": "This is item 14."
-        },
-        {
-          "id": 15,
-          "name": "item15",
-          "description": "This is item 15."
-        }
-      ]
-    },
-    {
-      "name": "endpoint4",
-      "url": "https://example.com/endpoint4",
-      "items": [
-        {
-          "id": 16,
-          "name": "item16",
-          "description": "This is item 16."
-        },
-        {
-          "id": 17,
-          "name": "item17",
-          "description": "This is item 17."
-        },
-        {
-          "id": 18,
-          "name": "item18",
-          "description": "This is item 18."
-        },
-        {
-          "id": 19,
-          "name": "item19",
-          "description": "This is item 19."
-        },
-        {
-          "id": 20,
-          "name": "item20",
-          "description": "This is item 20."
-        }
-      ]
-    },
-    {
-      "name": "endpoint5",
-      "url": "https://example.com/endpoint5",
-      "items": [
-        {
-          "id": 21,
-          "name": "item21",
-          "description": "This is item 21."
-        },
-        {
-          "id": 22,
+    }
